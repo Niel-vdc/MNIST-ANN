@@ -1,0 +1,2 @@
+# MNIST-ANN
+Digit recogniser
